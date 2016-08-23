@@ -69,13 +69,5 @@
       }
       setTimeout(changeToWhite, 4500)
 
-     
 
-
-      // $('h1').mouseenter(function() {
-      // 	alert('hi');
-      // 	$(this).addClass('animated flip');
-      // }).mouseleave(function() {
-      // 	$(this).removeClass('animated flip')
-      // });
 
